@@ -1,0 +1,1 @@
+[14-Feb-2017 16:17:45 Asia/Jakarta] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/ruaz2865/public_html/mpdk/phpsqlajax_genxml.php on line 15
